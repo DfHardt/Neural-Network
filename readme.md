@@ -1,0 +1,1 @@
+eu vou utilizar esse repositório para fazer um estudo aprofundado sobre redes neurais e implementar algoritmos relacionados em python
